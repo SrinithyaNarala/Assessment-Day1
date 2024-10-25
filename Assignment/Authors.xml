@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <AuthorId>1</AuthorId>
+    <Name>Ram</Name>
+    <Email>ram@gmail.com</Email>
+    <Biography>English novelist</Biography>
+  </Author>
+  <Author>
+    <AuthorId>2</AuthorId>
+    <Name>Sita</Name>
+    <Email>sita2@gmail.com</Email>
+    <Biography>American writer and humorist</Biography>
+  </Author>
+  <Author>
+    <AuthorId>3</AuthorId>
+    <Name>George</Name>
+    <Email>george@gmail.com</Email>
+    <Biography>English novelist and essayist</Biography>
+  </Author>
+  <Author>
+    <AuthorId>4</AuthorId>
+    <Name>Abdul</Name>
+    <Email>abdul@gmail.com</Email>
+    <Biography>British author and philanthropist</Biography>
+  </Author>
+  <Author>
+    <AuthorId>5</AuthorId>
+    <Name>Krishna</Name>
+    <Email>krishna12@gmail.com</Email>
+    <Biography>American novelist and journalist</Biography>
+  </Author>
+</ArrayOfAuthor>

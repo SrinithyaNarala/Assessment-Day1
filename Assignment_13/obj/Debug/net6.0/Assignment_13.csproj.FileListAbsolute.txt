@@ -1,0 +1,14 @@
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\bin\Debug\net6.0\Assignment_13.exe
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\bin\Debug\net6.0\Assignment_13.deps.json
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\bin\Debug\net6.0\Assignment_13.runtimeconfig.json
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\bin\Debug\net6.0\Assignment_13.dll
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\bin\Debug\net6.0\Assignment_13.pdb
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.AssemblyInfoInputs.cache
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.AssemblyInfo.cs
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.csproj.CoreCompileInputs.cache
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.dll
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\refint\Assignment_13.dll
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.pdb
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\Assignment_13.genruntimeconfig.cache
+C:\Users\srini\Documents\Hexaware\Advanced training\C#\Assignment_13\obj\Debug\net6.0\ref\Assignment_13.dll

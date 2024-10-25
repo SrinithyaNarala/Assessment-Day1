@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookId>1</BookId>
+    <Title>Pride and Prejudice</Title>
+    <AuthorId>1</AuthorId>
+    <Genre>Romance</Genre>
+    <Price>9.99</Price>
+  </Book>
+  <Book>
+    <BookId>2</BookId>
+    <Title>Adventures of Huckleberry Finn</Title>
+    <AuthorId>2</AuthorId>
+    <Genre>Adventure</Genre>
+    <Price>12.99</Price>
+  </Book>
+  <Book>
+    <BookId>3</BookId>
+    <Title>1984</Title>
+    <AuthorId>3</AuthorId>
+    <Genre>Dystopian</Genre>
+    <Price>15.99</Price>
+  </Book>
+  <Book>
+    <BookId>4</BookId>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <AuthorId>4</AuthorId>
+    <Genre>Fantasy</Genre>
+    <Price>14.99</Price>
+  </Book>
+  <Book>
+    <BookId>5</BookId>
+    <Title>The Old Man and the Sea</Title>
+    <AuthorId>5</AuthorId>
+    <Genre>Fiction</Genre>
+    <Price>10.99</Price>
+  </Book>
+</ArrayOfBook>

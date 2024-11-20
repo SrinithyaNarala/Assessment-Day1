@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+<ul id="productList">
+<script>
+const products = [
+    { id: 1, name: "Laptop", details: { price: 64999, instock: true } },
+    { id: 2, name: "IPad", details: { price: 6999, instock: false } },
+    { id: 3, name: "Phone", details: { price: 8999, instock: true } },
+    { id: 4, name: "Projector", details: { price: 74999, instock: false } },
+];
+
+// Get the reference to the UL element
+const productListElement = document.getElementById("productList");
+
+// Filter and display in-stock products
+products.filter(product => product.details.instock).map(product => {
+    const listItem = document.createElement("li");
+    listItem.textContent = `ID: ${product.id}, Name: ${product.name}, Price: ${product.details.price}`;
+    productListElement.appendChild(listItem);
+});
+</script>
+</ul>
+</body>
+</html>

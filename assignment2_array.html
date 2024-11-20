@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+<ul id="studentList">
+<script>
+const students = [
+    { id: 1, name: "Rahul", result: "Pass", percentage: 85 },
+    { id: 2, name: "Anjali", result: "Fail", percentage: 45 },
+    { id: 3, name: "Priya", result: "Pass", percentage: 92 },
+    { id: 4, name: "Rohan", result: "Pass", percentage: 78 },
+    { id: 5, name: "Sneha", result: "Pass", percentage: 88 },
+];
+
+// Get the reference to the UL element
+const studentListElement = document.getElementById("studentList");
+
+// Filter and display students who passed with percentage > 80
+students.filter(student => student.result === "Pass" && student.percentage > 80)
+    .map(student => {
+        const listItem = document.createElement("li");
+        listItem.textContent = `ID: ${student.id}, Name: ${student.name}, Percentage: ${student.percentage}`;
+        studentListElement.appendChild(listItem);
+    });
+</script>
+</ul>
+</body>
+</html>
